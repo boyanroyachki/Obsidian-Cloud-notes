@@ -1,0 +1,1 @@
+a keyword that automatically sets the property to be ignored by the source control, but still to appear in the code (the value will be either "ignored" or something else)
